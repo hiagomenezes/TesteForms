@@ -76,6 +76,21 @@ namespace WindowsFormsApp3
         {
           
         }
+
+        private void QrCodeGraphicControl1_Click(object sender, EventArgs e)
+        {
+            MessageBox.Show("oi");
+        }
+
+        private void QrCodeImgControl1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void Button1_Click_1(object sender, EventArgs e)
+        {
+           
+        }
     }
 }
 

@@ -8,3 +8,7 @@ C:\Users\Dev Note 01\Desktop\hiago\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\W
 C:\Users\Dev Note 01\Desktop\hiago\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
 C:\Users\Dev Note 01\Desktop\hiago\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
 C:\Users\Dev Note 01\Desktop\hiago\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Dev Note 01\Desktop\hiago\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Gma.QrCodeNet.Encoding.dll
+C:\Users\Dev Note 01\Desktop\hiago\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Gma.QrCodeNet.Encoding.pdb
+C:\Users\Dev Note 01\Desktop\hiago\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\Gma.QrCodeNet.Encoding.xml
+C:\Users\Dev Note 01\Desktop\hiago\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
