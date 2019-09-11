@@ -7,6 +7,9 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using System.IO;
+using System.Security.Cryptography;
+
 
 namespace WindowsFormsApp3
 {
@@ -24,12 +27,12 @@ namespace WindowsFormsApp3
 
         private void CheckBox1_CheckedChanged(object sender, EventArgs e)
         {
-            
+
         }
 
         private void CheckedListBox1_SelectedIndexChanged(object sender, EventArgs e)
         {
-            
+
         }
 
         private void Button2_Click(object sender, EventArgs e)
@@ -47,5 +50,37 @@ namespace WindowsFormsApp3
             MessageBox.Show("");
 
         }
+
+        private void Button4_Click_1(object sender, EventArgs e)
+        {
+            int contador = 0;
+            for (int i = 0; i <= checkedListBox1.Items.Count; i++)
+            {
+                contador = i;
+            }
+            MessageBox.Show("total " +contador);
+        }
+
+        private void TextBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+
+            if (e.KeyChar == (char)Keys.Return)
+            {
+                this.button2.PerformClick();
+            }
+
+        }
+
+        private void Button3_ControlRemoved(object sender, ControlEventArgs e)
+        {
+          
+        }
     }
 }
+
+
+
+            
+        
+
